@@ -4,7 +4,7 @@
 <h2>💞️ I’m looking to collaborate with anyone asks for help</h2>
 <h2>📫 How to reach me:</h2>
 <a href="https://www.linkedin.com/in/ana-luiza-valente-saroldi-sibanto-caldeira-9272ba1b6/" target="_Blank">LinkedIn</a> 
-<h3><a href="mailto:anavsscaldeira@gmail.com">E-mail</a></h3>
+<a href="mailto:anavsscaldeira@gmail.com">E-mail</a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnaVSSCaldeira&layout=compact)](https://github.com/AnaVSSCaldeira/github-readme-stats)
 <br>![Ana Caldeira Status](https://github-readme-stats.vercel.app/api?username=AnaVSSCaldeira&theme=material-palenight&show_icons=true)
