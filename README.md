@@ -4,5 +4,5 @@
 <h3>💞️ I’m looking to collaborate with anyone asks for help</h3>
 <h3>📫 How to reach me: anavsscaldeira@gmail.com</h3>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnaVSSCaldeira&layout=compact)](https://github.com/AnaVSSCaldeira/github-readme-stats)
 ![Ana Caldeira Status](https://github-readme-stats.vercel.app/api?username=AnaVSSCaldeira&theme=material-palenight&show_icons=true)
-<br>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnaVSSCaldeira&layout=compact)](https://github.com/AnaVSSCaldeira/github-readme-stats)
