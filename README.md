@@ -6,4 +6,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnaVSSCaldeira&layout=compact)](https://github.com/AnaVSSCaldeira/github-readme-stats)
 <br>![Ana Caldeira Status](https://github-readme-stats.vercel.app/api?username=AnaVSSCaldeira&theme=material-palenight&show_icons=true)
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=100&section=footer&fontSize=10)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=footer&fontSize=5)
