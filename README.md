@@ -2,8 +2,9 @@
 <h3>👀 I’m interested in Cybersecutity (red team)</h3>
 <h3>🌱 I’m currently learning C, Python, HTML, CSS, JS and MySQL</h3>
 <h3>💞️ I’m looking to collaborate with anyone asks for help</h3>
+<h3>📫 How to reach me:<br>
 <ul type="circle">
-<li><h3>📫 How to reach me:<br><a href="https://www.linkedin.com/in/ana-luiza-valente-saroldi-sibanto-caldeira-9272ba1b6/" target="_Blank">LinkedIn</a></li><br><li><a href="mailto:anavsscaldeira@gmail.com">E-mail</a></h2></li>
+<li><a href="https://www.linkedin.com/in/ana-luiza-valente-saroldi-sibanto-caldeira-9272ba1b6/" target="_Blank">LinkedIn</a></li><li><a href="mailto:anavsscaldeira@gmail.com">E-mail</a></h3></li>
 <ul>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnaVSSCaldeira&layout=compact)](https://github.com/AnaVSSCaldeira/github-readme-stats)
