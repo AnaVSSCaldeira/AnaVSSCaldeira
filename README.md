@@ -1,5 +1,5 @@
 <h3>👋 Hi, I’m Ana Luiza V.S.S Caldeira, nice to meet you!</h3>
-<h3>👀 I’m interested in Cybersecutity (red team)</h3>
+<h3>👀 I’m interested in new technologys</h3>
 <h3>🌱 I’m currently learning C, Python, HTML, CSS, JS and MySQL</h3>
 <h3>💞️ I’m looking to collaborate with anyone asks for help</h3>
 <h3>📫 How to reach me:<br>
