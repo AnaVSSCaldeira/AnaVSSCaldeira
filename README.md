@@ -6,6 +6,12 @@
 <ul type="circle">
 <li><a href="https://www.linkedin.com/in/ana-luiza-valente-saroldi-sibanto-caldeira-9272ba1b6/" target="_Blank">LinkedIn</a></li><li><a href="mailto:anavsscaldeira@gmail.com">E-mail</a></h3></li>
 </ul>
+<div display="flex">
+  <a href="https://github.com/biancasalino">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaVSSCaldeira&layout=compact&langs_count=7&theme=cobalt"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnaVSSCaldeira&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+</div>
+<br>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="48" width="48"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="48" width="48"/> 
